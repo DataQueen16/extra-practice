@@ -19,4 +19,6 @@
             }
         }
 
+    // Write the loop and code necessary to sum all integers between 1 to 100
+
 })();
